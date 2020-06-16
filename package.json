@@ -1,0 +1,23 @@
+{
+  "name": "todo_list_maker",
+  "version": "1.0.0",
+  "description": "Simple to do list maker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strevitz/todo-list-maker.git"
+  },
+  "author": "Arthur Strzewiczek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strevitz/todo-list-maker/issues"
+  },
+  "homepage": "https://github.com/Strevitz/todo-list-maker#readme",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node": "^14.4.0"
+  }
+}
